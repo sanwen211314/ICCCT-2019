@@ -11,7 +11,7 @@ Shah D., Zaveri T. (2021) Hyperspectral Endmember Extraction Algorithm Using Spe
 https://rslab.ut.ac.ir/data
 
 # How to run the code?
-Download all the above files in zip. Extract it. And run the "demo_CGkmeans.m" file in MATLAB. 
+Download all the above files in zip. Extract it. And run the "demo_spearman.m" file in MATLAB. 
 
 # Authors:
 - Dharambhai Shah, Nirma University ---> shahdharam7@gmail.com (For any clarification)
